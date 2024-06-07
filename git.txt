@@ -2,4 +2,8 @@ Lorem ipsum
 Virat Kohli
 Thala
 Sachin
+<<<<<<< HEAD
 Rahul Dravid
+=======
+Sehwag
+>>>>>>> dd0daa6 (feat: added sehwag)
